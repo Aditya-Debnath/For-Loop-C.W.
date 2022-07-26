@@ -149,8 +149,35 @@ int main()
     }
 }
 
+9th Problem
+
+#include<stdio.h>
+int main()
+{
+    int i,n;
+    int flag = 0;
+
+    scanf("%d",&n);
+
+    for(i = 2 ; i <= n/2 ; i++)
+    {
+        if(n % i == 0)
+        {
+            flag = 1;
+            break;
+        }
+    }
+    if(flag == 0)
+        printf("Prime\n");
+    else
+        printf("Not Prime\n");
+
+    return 0;
+}
+
+
 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
-9th Problem is not solve, because of lack of time & ইচ্ছার অভাব। 
+10th Problem is not solve, because of lack of time & ইচ্ছার অভাব। 
 
 There is another code that not written here,(Also, আমি ওই কোডটা করি নাই।) the problem is that 
 🚩"you have to write a C program, that's make a sum of all the even number that you give as input".🚩
