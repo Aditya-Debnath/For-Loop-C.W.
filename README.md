@@ -4,7 +4,9 @@
 1st Problem
 
 #include<stdio.h>
+
 int main()
+
 {
     int A,N;
     scanf("%d",&N);
@@ -18,7 +20,9 @@ int main()
 2ed Problem
 
 #include<stdio.h>
+
 int main()
+
 {
     int n, i, sum;
     scanf("%d",&n);
@@ -31,7 +35,9 @@ int main()
 3rd Problem
 
 #include<stdio.h>
+
 int main()
+
 {
     int n, i,sum = 0;
     scanf("%d",&n);
@@ -49,7 +55,9 @@ int main()
 4th Problem
 
 #include<stdio.h>
+
 int main()
+
 {
     int i,n;
     scanf("%d",&n);
@@ -64,7 +72,9 @@ int main()
 5th Problem
 
 #include<stdio.h>
+
 int main()
+
 {
     int a,i,n,r;
     int fact = 1;
@@ -86,7 +96,9 @@ int main()
 6th Problem 
 
 #include<stdio.h>
+
 int main()
+
 {
     int n,i,a=0;
     scanf("%d",&n);
@@ -107,7 +119,9 @@ int main()
 7th Problem 
 
 #include<stdio.h>
+
 int main()
+
 {
     int n;
     scanf("%d",&n);
@@ -122,7 +136,9 @@ int main()
 8th Problem
 
 #include<stdio.h>
+
 int main()
+
 {
     int i, n;
     scanf("%d",&n);
